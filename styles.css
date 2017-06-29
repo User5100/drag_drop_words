@@ -1,0 +1,12 @@
+body {
+	margin: 0;
+}
+
+.wordContainer:hover {
+	cursor: pointer;
+}
+
+.filtered-word:hover {
+	cursor: pointer;	
+}
+
